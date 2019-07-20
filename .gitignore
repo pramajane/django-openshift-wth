@@ -1,0 +1,43 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### SublimeText ###
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# workspace files are user-specific
+*.sublime-workspace
+
+# Pycharm
+.idea
+
+# Local settings
+config/settings_local.py
+celerybeat-schedule.db
+
+# Basics
+*.py[cod]
+*.pyc
+__pycache__
+*.sqlite3
+
+# Logs
+*.log
+pip-log.txt
+
+# virtual environments
+.env
+venv
+
+# npm
+node_modules/
+
+# Compass
+.sass-cache
+
+# Compiled sass file(s)
+static/css/main.css
